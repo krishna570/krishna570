@@ -57,7 +57,7 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
+
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna570&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -69,6 +69,18 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna570&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 github-readme-streak-stats.herokuapp.com
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna570&show_icons=true&theme=radical"/>
+
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=krishna570&theme=radical"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna570&layout=compact&theme=radical"/>
+</p>
+
 
 ---
 
