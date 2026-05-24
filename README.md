@@ -56,15 +56,21 @@
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna570&show_icons=true&theme=radical"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna570&theme=radical"/>
+  <img width="49%" 
+  src="https://github-readme-stats.vercel.app/api?username=krishna570&show_icons=true&theme=radical&border_color=00FFFF"/>
+
+  <img width="49%" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=krishna570&theme=radical&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&border=00FFFF"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna570&layout=compact&theme=radical"/>
+  <img width="40%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna570&layout=compact&theme=radical&border_color=00FFFF"/>
 </p>
 ---
 
