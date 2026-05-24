@@ -91,3 +91,5 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna570&show_icons=true&theme=tokyonight&border_color=00FF00" />
