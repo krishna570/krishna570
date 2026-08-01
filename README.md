@@ -111,7 +111,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🤖 AI Chatbot | AI chatbot using Python & NLP |
+
 | 🏠 House Price Prediction | Machine Learning project with visualization |
 | 📱 Android Applications | Android apps built using Java |
 | 🌐 Portfolio Website | Responsive personal portfolio |
