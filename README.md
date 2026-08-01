@@ -6,7 +6,7 @@
 
 ### 🤖 AI & Machine Learning Enthusiast | 📊 MCA (Data Science) Student | 💻 Android & Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;MCA+(Data+Science)+Student;Android+Developer;Web+Developer;Python+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;MCA+(Data+Science)+Student;Python+Developer;Android+Developer;Web+Developer;Building+AI+Projects;Always+Learning+🚀" />
 
 </div>
 
@@ -16,18 +16,22 @@
 
 # 🚀 About Me
 
-- 🎓 MCA (Data Science) Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Building AI, Machine Learning, Android and Web Projects
-- 🌱 Currently learning
-  - Machine Learning
-  - Deep Learning
-  - Data Science
-  - Backend Development
-- 📚 Solving DSA & Python Problems on HackerRank
-- 🎯 Goal: Become an AI/ML Engineer
-- ⚡ Fun Fact:
-  > *I turn ☕ Coffee into 💻 Code.*
+* 🎓 MCA (Data Science) Student
+* 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
+* 💻 Building AI, Machine Learning, Android and Web Applications
+* 📚 Solving Python & DSA problems on HackerRank
+* 🌱 Currently learning:
+
+  * Machine Learning
+  * Deep Learning
+  * Data Science
+  * Backend Development
+  * Android Development
+* 🚀 Sharing my coding journey publicly on GitHub & LinkedIn
+* 🎯 Career Goal: Become an AI/ML Engineer
+* ☕ Fun Fact:
+
+  > *I turn coffee into code and bugs into lessons.*
 
 ---
 
@@ -75,15 +79,17 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishna570&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna570&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=krishna570&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna570&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna570&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+> **Note:** If any GitHub cards don't load, GitHub's cache or the third-party service may be temporarily unavailable. They usually appear again automatically.
 
 ---
 
@@ -101,7 +107,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishna570&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krishna570&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -109,45 +115,54 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-
-| 🏠 House Price Prediction | Machine Learning project with visualization |
-| 📱 Android Applications | Android apps built using Java |
-| 🌐 Portfolio Website | Responsive personal portfolio |
-| 🐍 30 Days DSA & Python | Daily HackerRank coding challenge |
+| Project                           | Description                                                                   |
+| --------------------------------- | ----------------------------------------------------------------------------- |
+| 🏠 House Price Prediction         | Machine Learning project for predicting house prices with data visualization  |
+| 🤖 AI Skin Disease Detection      | Deep Learning project for image-based disease prediction                      |
+| 🌐 Portfolio Website              | Responsive portfolio built using HTML, CSS and JavaScript                     |
+| 🐍 30 Days DSA & Python Challenge | 23+ HackerRank problems solved with clean Python solutions and daily progress |
 
 ---
 
-# 📚 Currently Learning
+# 🔥 Coding Journey
+
+* 📅 15 Consecutive Days of Coding
+* 💻 23+ HackerRank Problems Solved
+* 🐍 3⭐ HackerRank Python
+* 🚀 50% Completed – 30 Days DSA & Python Challenge
+* 📚 Learning something new every day
+
+---
+
+# 📚 Current Learning Progress
 
 ```text
 🤖 Artificial Intelligence
-███████████████████░░░ 90%
+█████████████░░░░░░░░ 65%
 
 🐍 Python
-█████████████████████ 100%
+███████████████░░░░░░ 75%
 
 📊 Machine Learning
-████████████████░░░░░ 80%
+████████████░░░░░░░░░ 60%
 
 🧠 Deep Learning
-███████████░░░░░░░░░░ 55%
+████████░░░░░░░░░░░░░ 40%
 
 ⚛️ React
-██████████░░░░░░░░░░░ 50%
+███████░░░░░░░░░░░░░░ 35%
 ```
 
 ---
 
 # 📅 Current Goals (2026)
 
-- ✅ Complete 30 Days DSA & Python Challenge
-- 🎯 Achieve 5⭐ HackerRank Python Badge
-- 🤖 Build Advanced Machine Learning Projects
-- 📱 Publish Android Applications
-- 🚀 Contribute to Open Source
-- 💼 Secure an AI/ML Internship
+* 🔄 Complete the remaining 15 days of the 30 Days DSA & Python Challenge
+* ⭐ Achieve a 5⭐ HackerRank Python Badge
+* 🤖 Build advanced AI & Machine Learning Projects
+* 📱 Publish Android Applications
+* 🌍 Contribute to Open Source
+* 💼 Secure an AI/ML Internship
 
 ---
 
@@ -161,11 +176,11 @@
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
 <div align="center">
 
-> **"Every line of code I write today brings me one step closer to becoming the engineer I dream of becoming."** 💙
+> **"Every line of code I write today brings me one step closer to becoming the engineer I aspire to be."** 💙
 
 </div>
 
@@ -173,7 +188,7 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thank you for visiting my profile!
 
 ### 🚀 Keep Learning • Keep Building • Keep Growing
 
