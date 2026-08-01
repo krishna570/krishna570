@@ -89,7 +89,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=krishna570&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
 
 </p>
-
+<p align="center">
+  <img src="assets/pixel-avatar.gif" width="220" alt="Pixel Avatar"/>
+</p>
 ---
 
 # 🚀 Featured Projects
